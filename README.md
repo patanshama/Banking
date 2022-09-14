@@ -1,10 +1,16 @@
 # Digital-Banking
 https://brave-ocean-02d2a7910.1.azurestaticapps.net
 
+PROJECT SYNOPSYS
+
+
+
 
 Industry : Fin Tech
 
+
 Project Title : Digital Banking / Online Banking
+
 
 Problem Statement/Opportunity : 
 Customer experience is an integral part of a bank’s operations. Opening a new account in a bank to availing extra bank services like applying credit card, seeking loan need paper work and the person should visit the bank. All of these tasks take up a lot of time and dampen the overall customer experience. Many Business Organizations also feel difficult to manage in their business finances and sometimes fail to meet their organizational goals. You can solve all these problems by creating a software solution where people can sign up and open a new account in a bank digitally and avail all the bank services online. This way, the person can save a lot of time and effort. This online banking system also helps the businesses to manage their business finances, control their need, with multiple disbursement and payment options.
@@ -16,3 +22,9 @@ Online Banking System integrates the various levels of interactions between the 
 
 Primary Azure Technology :
 Static Web Apps, Visual Studio Code
+
+
+
+
+
+
